@@ -21,3 +21,4 @@ jobs:
         
     - name: Aja testit Mavenilla
       run: mvn test
+
